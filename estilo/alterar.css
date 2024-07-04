@@ -1,0 +1,73 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #d6ccc2  ; 
+    overflow-x: hidden;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.card-header {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-title {
+    font-size: 1.75rem;
+    font-weight: bold;
+}
+
+.form-label {
+    font-weight: bold;
+    color: #333;
+}
+
+.form-control {
+    border-radius: 5px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+.btn-link:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+.container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.image-preview-container {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.image-preview {
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto; 
+}
