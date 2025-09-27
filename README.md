@@ -27,10 +27,6 @@ Utilizando **PHP** para a lógica do servidor e **MySQL** para a persistência d
 
 <img width="1439" height="717" alt="image" src="https://github.com/user-attachments/assets/ce04c825-4207-44a6-84b8-36ce7a353523" />
 
-
-🔗 **Acesse o projeto online:**
-👉 [Clique aqui para visualizar](https://leonardomartinsb.github.io/PW---CRUD/)
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
